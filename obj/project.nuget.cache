@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v01Cs4SpGJks8TktydN1fZYnUJWqF6t3XYt4jt89RqRyRKJLxZe9CfLfA6MmCTNClP81GKxQr1Y0Mw8J44kARA==",
+  "dgSpecHash": "BM9og2k0uAU8scFLvsftvPslZPaEMYnFTbn790BCQGdP4rFyPH725O23kfDu5brk5EZ0kgakQadGfIbMpuMEhA==",
   "success": true,
-  "projectFilePath": "/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/test.csproj",
+  "projectFilePath": "/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/adventure_time_api.csproj",
   "expectedPackageFiles": [
     "/home/emanuel/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/home/emanuel/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

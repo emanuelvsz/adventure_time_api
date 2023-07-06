@@ -3643,9 +3643,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/test.csproj",
-      "projectName": "test",
-      "projectPath": "/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/test.csproj",
+      "projectUniqueName": "/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/adventure_time_api.csproj",
+      "projectName": "adventure_time_api",
+      "projectPath": "/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/adventure_time_api.csproj",
       "packagesPath": "/home/emanuel/.nuget/packages/",
       "outputPath": "/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/obj/",
       "projectStyle": "PackageReference",
