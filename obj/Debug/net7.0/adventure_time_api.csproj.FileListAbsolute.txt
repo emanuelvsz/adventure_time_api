@@ -1,7 +1,0 @@
-/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/obj/Debug/net7.0/adventure_time_api.csproj.AssemblyReference.cache
-/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/obj/Debug/net7.0/adventure_time_api.GeneratedMSBuildEditorConfig.editorconfig
-/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/obj/Debug/net7.0/adventure_time_api.AssemblyInfoInputs.cache
-/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/obj/Debug/net7.0/adventure_time_api.AssemblyInfo.cs
-/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/obj/Debug/net7.0/adventure_time_api.csproj.CoreCompileInputs.cache
-/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/obj/Debug/net7.0/adventure_time_api.MvcApplicationPartsAssemblyInfo.cs
-/home/emanuel/develop-environment/backend-projects/csharp/adventure_time_api/obj/Debug/net7.0/adventure_time_api.MvcApplicationPartsAssemblyInfo.cache

@@ -1,8 +1,7 @@
-using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
-using adventure_time_api.Data;
-using adventure_time_api.Repository;
-using adventure_time_api.Repository.Interfaces;
+using adventure_time_api.src.infra.database;
+using adventure_time_api.src.domain.interfaces;
+using adventure_time_api.src.infra;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,11 +13,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddEntityFrameworkSqlServer()
-.AddDbContext<CharacterDBContext>(
-    options => options.UseSqlServer(builder.Configuration.GetConnectionString("DataBase"))
-);
+    .AddDbContext<CharacterDBContext>(
+        options => options.UseSqlServer(builder.Configuration.GetConnectionString("DataBase")));
 
-builder.Services.AddScoped<CharacterLoader, CharacterRepository>();
+builder.Services.AddScoped<CharacterInterfaceRepository, CharacterRepository>();
 
 var app = builder.Build();
 
